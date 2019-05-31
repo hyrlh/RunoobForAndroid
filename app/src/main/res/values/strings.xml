@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RunoobForAndroid</string>
+    <string name="test">测试</string>
+    <string name="two_chapter">第二章</string>
+    <string name="two_chapter_one_segment">第二章第一节</string>
+</resources>

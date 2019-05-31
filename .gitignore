@@ -1,0 +1,16 @@
+#文件夹
+/.idea/*
+/.gradle/*
+/build/*
+
+#文件类型
+*.iml
+
+#特殊文件
+/local.properties
+
+
+#自定生成的
+.DS_Store
+/captures
+.externalNativeBuild
